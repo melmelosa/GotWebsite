@@ -1,0 +1,35 @@
+body{
+    background-color: black !important;
+
+}
+
+#contenedorTitulo{
+    text-align: center;
+}
+.img-fluid{
+    max-width: 100%;
+}
+.card-img-top {
+    border-radius: 1rem !important;
+    margin-top: 1rem;
+    width: 20rem;
+    height: 20rem;
+    border: 3px solid #f0f0f0;
+} 
+.card-title{
+    font-size: x-large;
+    text-transform:uppercase;
+    text-decoration: underline;
+
+}
+.col-4{  
+    
+    background-color: black !important;
+    color: #f0f0f0;
+    font-size: large;
+}
+.card.mx-1.my-1{
+    background-color: black ;
+    border: 1px solid #f0f0f0;
+    padding: 1rem;
+}
